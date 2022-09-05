@@ -1,2 +1,2 @@
 # Calculado-Java
-Calculadora feita em Java, utilizando com o NetBeans como IDE.
+Calculadora feita em Java, utilizando o  NetBeans como IDE.
